@@ -1,5 +1,5 @@
-<?php include_once 'includes/User.php'; 
-      include_once 'includes/Photo.php'; 
+<?php //include_once 'includes/User.php'; 
+      //include_once 'includes/Photo.php'; 
  		 $user=new User();
      $photo=new Photo();
      
